@@ -1,9 +1,8 @@
 package main
 
 import (
+	"curso_go_intermediario/interfaces/model"
 	"fmt"
-
-	"github.com/ThiagoRodriguesdeSantana/curso_go_intermediario/interfaces/model"
 )
 
 func main() {
